@@ -20,7 +20,8 @@ public class ProyectoVehiculo {
         System.out.println(coche1);
         Vehiculo coche2 = new Vehiculo("2345","opel", "astra", "azul", 20.0, true);
         System.out.println(coche2);
-        
+        //metodo aritmetica que va tener una operacion que va sumar dos nuevo numeros
+        //una clase que se llama aritmetica
     }
     
 }
